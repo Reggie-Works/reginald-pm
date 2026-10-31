@@ -1,4 +1,4 @@
-# Reginald Igbayue
+# Reginald Kilimishi
 ### Construction Project Management | Road Infrastructure | Project Delivery
 
 Welcome to my professional project management portfolio.
@@ -21,7 +21,11 @@ This portfolio documents selected project experience, professional competencies,
 
 ## Project Portfolio
 
-This repository showcases selected construction projects, project case studies, technical documentation and project execution records, highlighting my responsibilities, contributions and practical experience.
+### Featured Projects
+
+- [Old Otukpa–Orokam Road Rehabilitation](projects/old-otukpa-orokam-road-rehabilitation.md)
+
+Selected construction projects documenting project scope, execution, management responsibilities and outcomes.
 
 ## Professional Development
 
